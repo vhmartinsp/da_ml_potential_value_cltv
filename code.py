@@ -15,7 +15,6 @@ O conjunto de dados consiste em informações obtidas do comportamento de compra
 """
 
 !pip install lifetimes
-import numpy as np
 import pandas as pd
 import datetime as dt
 import matplotlib.pyplot as plt
